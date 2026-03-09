@@ -47,6 +47,16 @@ To build an integrated intelligence ecosystem that connects human health, enviro
 • BhumiRaksha – https://github.com/eraya-intelligence-system/BhumiRaksha
 ## Research and Development
 
+ERAYA Intelligence Ecosystem
+
+Domains:
+ERAYA → Human Health Intelligence
+Bhumisetu → Land & Environmental Intelligence
+BhumiRaksha → Planetary Protection
+
+Mission:
+To build integrated intelligence systems for human wellbeing, environmental sustainability and planetary resilience.
+
 This repository contains conceptual frameworks and research directions for the ERAYA Intelligence Ecosystem.
 
 Certain technologies and systems related to these platforms are protected under intellectual property and patent filings.
