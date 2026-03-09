@@ -40,7 +40,11 @@ BhumiRaksha focuses on waste intelligence, circular resource systems, climate im
 To build an integrated intelligence ecosystem that connects human health, environmental systems, and planetary protection for a sustainable future.
 
 ---
+## Platforms
 
+• ERAYA – https://github.com/eraya-intelligence-system/ERAYA  
+• Bhumisetu – https://github.com/eraya-intelligence-system/Bhumisetu  
+• BhumiRaksha – https://github.com/eraya-intelligence-system/BhumiRaksha
 ## Research and Development
 
 This repository contains conceptual frameworks and research directions for the ERAYA Intelligence Ecosystem.
